@@ -16,7 +16,6 @@ The goal is to deepen my Docker skills by creating a mini infrastructure with mu
 
 ## Project structure  
 - `srcs/` contains all source files including Dockerfiles and configs.  
-- `secrets/` holds credentials and sensitive info, excluded from Git.  
 - `.env` stores environment variables.  
 - Makefile automates image build and container management.  
 
